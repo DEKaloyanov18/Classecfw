@@ -11,7 +11,7 @@ public class makar {
 
     @RequestMapping("/user")
     public String user(){
-        return "User: Ilian Yanev <br> Age: 18 <br> From: Burgas";
+        return "User: Dimitar Kaloyanov <br> Age: 18 <br> From: Burgas";
     }
 
     @RequestMapping("/about")
